@@ -1,0 +1,11 @@
+# csv files #
+*.csv
+
+# tsv files #
+*.tsv
+
+# .gz files #
+*.gz
+
+# zipped.db files #
+*.db
