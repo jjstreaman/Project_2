@@ -12,3 +12,6 @@ The data for this project was distributed by Flatiron School, and have been gath
 
 ## Objective
 Sift through the data in order to determine the necessary components of creating a movie studio.
+Determine what genres are most successful - production budget, worldwide gross revenue, return on investment
+Determine what studios are most successful - director, genre, roi, actors, writers
+Does a high rating correlate to a successful film?
