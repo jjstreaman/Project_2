@@ -14,6 +14,7 @@ The data for this project was distributed by Flatiron School, and have been gath
 - The Numbers: https://www.the-numbers.com/
 
   The data from the above sources was important in coming up with analysis to determine what would make a successful movie studio.
+  Many different tools were used in this process of analysis, including (but not limited to) pandas, sql, seaborn, matplotlib, etc.
   The various sources included many of the same things (movie title, domestic gross, year) and some that were only available in specific datasets or tables (genres, directors, worldwide gross, etc.)
   One measurement had to be created entirely new. ROI (return on investment) was calculated by (worldwide gross - production budget) / production budget.
   I looked into the various tables and joined tables & dataframes that were important to one another. The movie budget dataframe, movie gross dataframe, and IMDB movie basics dataframes were all used and important to this project.
